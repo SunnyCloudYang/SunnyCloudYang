@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/SunnyCloudYang/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SunnyCloudYang/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-- 🔭 I’m currently working on front end and DeepLearning
-- 🌱 I’m currently learning front end and DeepLearning
-- 👯 I’m looking to collaborate on front end and any other interesting things
+- 🔭 I’m currently working on front-end and DeepLearning
+- 🌱 I’m currently learning front-end and DeepLearning
+- 👯 I’m looking to collaborate on any interesting things
 - 📫 How to reach me: sunnycloudyang@outlook.com
