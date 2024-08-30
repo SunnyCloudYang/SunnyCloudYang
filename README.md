@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![](https://github-readme-stats.vercel.app/api?username=SunnyCloudYang&count_private=true&show_icons=true&theme=transparent)
+-->
 
 ![](https://raw.githubusercontent.com/SunnyCloudYang/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SunnyCloudYang/github-stats/master/generated/languages.svg#gh-light-mode-only)
